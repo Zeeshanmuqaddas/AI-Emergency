@@ -1,0 +1,6 @@
+{
+  "name": "AI Emergency ",
+  "description": "A multi-agent medical decision support system designed to analyze patient symptoms, vitals, and risk factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
